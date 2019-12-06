@@ -1,0 +1,15 @@
+<ul>
+
+	<a href = "/adopt/add">
+		<button>
+			Add a new squirrel
+		</button>
+	</a>
+       {% for show in squirrels  %}
+	<li> 
+		<a href = "/adopt/{{show.Unique_squirrel_id}}">
+			{{show.Unique_squirrel_id}}
+		</a>
+	</li>
+       {% endfor %}
+</ul>
