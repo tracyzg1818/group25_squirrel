@@ -1,4 +1,4 @@
-# MSBA 19fall_Tools for Analytics_Group25_Squirrel Tracker
+# MSBA 19fall_Tools for Analytics_Group25_Squirrel Tracker, Team Member: Zhongyuan GU, Ruochen Zhong
 
 ## What is it
 Our project **Squirrel_Tracker** is a simple but useful tool to track information of squirrels in Central Park of NYC. Based on **Django** web development framework, we develop an App called 'sightings', which allows users to view all the squirrels in the central park, edit their details in various attributes, and create new squirrel records. Additionally, it also provides a map displaying squirrel positions and brief descriptive statistics of squirrel attributes.
