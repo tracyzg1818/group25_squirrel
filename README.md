@@ -1,5 +1,8 @@
 # Django Squirrel Tracker
 #### Group Project for IEOR_E4501 Tools for Analytics at Columbia University
+Group members: 
+* Ruochen Zhong
+* Jerome Gu
 
 ## Technology
 The project is created with:
